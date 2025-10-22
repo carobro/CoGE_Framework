@@ -1,0 +1,1604 @@
+[
+    {
+        "Gruppe": "C",
+        "Aufgabentyp": "Planungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 4
+            },
+            {
+                "Startzeit": 20,
+                "Endzeit": 20
+            },
+            {
+                "Startzeit": 25,
+                "Endzeit": 25
+            }
+        ]
+    },
+    {
+        "Gruppe": "C",
+        "Aufgabentyp": "Kreativit\u00e4tsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 4,
+                "Endzeit": 16
+            },
+            {
+                "Startzeit": 26,
+                "Endzeit": 27
+            },
+            {
+                "Startzeit": 30,
+                "Endzeit": 30
+            }
+        ]
+    },
+    {
+        "Gruppe": "C",
+        "Aufgabentyp": "Kognitive Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 6,
+                "Endzeit": 6
+            },
+            {
+                "Startzeit": 13,
+                "Endzeit": 15
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 26,
+                "Endzeit": 26
+            }
+        ]
+    },
+    {
+        "Gruppe": "C",
+        "Aufgabentyp": "Leistung/psychomotorische Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 6,
+                "Endzeit": 9
+            },
+            {
+                "Startzeit": 12,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 21,
+                "Endzeit": 30
+            }
+        ]
+    },
+    {
+        "Gruppe": "C",
+        "Aufgabentyp": "Entscheidungsfindungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 7,
+                "Endzeit": 8
+            },
+            {
+                "Startzeit": 10,
+                "Endzeit": 10
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 21,
+                "Endzeit": 21
+            },
+            {
+                "Startzeit": 23,
+                "Endzeit": 24
+            },
+            {
+                "Startzeit": 28,
+                "Endzeit": 31
+            }
+        ]
+    },
+    {
+        "Gruppe": "C",
+        "Aufgabentyp": "Intellektuelle Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 11,
+                "Endzeit": 11
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 22,
+                "Endzeit": 22
+            },
+            {
+                "Startzeit": 25,
+                "Endzeit": 25
+            }
+        ]
+    },
+    {
+        "Gruppe": "I",
+        "Aufgabentyp": "Kreativit\u00e4tsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 10
+            },
+            {
+                "Startzeit": 14,
+                "Endzeit": 14
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 17
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 22
+            },
+            {
+                "Startzeit": 24,
+                "Endzeit": 24
+            },
+            {
+                "Startzeit": 28,
+                "Endzeit": 28
+            }
+        ]
+    },
+    {
+        "Gruppe": "I",
+        "Aufgabentyp": "Intellektuelle Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 2,
+                "Endzeit": 2
+            },
+            {
+                "Startzeit": 9,
+                "Endzeit": 9
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 16
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 21,
+                "Endzeit": 21
+            },
+            {
+                "Startzeit": 26,
+                "Endzeit": 26
+            }
+        ]
+    },
+    {
+        "Gruppe": "I",
+        "Aufgabentyp": "Leistung/psychomotorische Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 2,
+                "Endzeit": 4
+            },
+            {
+                "Startzeit": 6,
+                "Endzeit": 8
+            },
+            {
+                "Startzeit": 10,
+                "Endzeit": 16
+            },
+            {
+                "Startzeit": 18,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 21,
+                "Endzeit": 30
+            }
+        ]
+    },
+    {
+        "Gruppe": "I",
+        "Aufgabentyp": "Kognitive Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 3,
+                "Endzeit": 3
+            },
+            {
+                "Startzeit": 13,
+                "Endzeit": 13
+            },
+            {
+                "Startzeit": 18,
+                "Endzeit": 18
+            },
+            {
+                "Startzeit": 27,
+                "Endzeit": 28
+            }
+        ]
+    },
+    {
+        "Gruppe": "I",
+        "Aufgabentyp": "Entscheidungsfindungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 7,
+                "Endzeit": 8
+            },
+            {
+                "Startzeit": 11,
+                "Endzeit": 11
+            },
+            {
+                "Startzeit": 14,
+                "Endzeit": 14
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 22,
+                "Endzeit": 22
+            },
+            {
+                "Startzeit": 24,
+                "Endzeit": 25
+            }
+        ]
+    },
+    {
+        "Gruppe": "I",
+        "Aufgabentyp": "Planungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 10,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 14,
+                "Endzeit": 14
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 18
+            },
+            {
+                "Startzeit": 21,
+                "Endzeit": 21
+            },
+            {
+                "Startzeit": 23,
+                "Endzeit": 25
+            },
+            {
+                "Startzeit": 27,
+                "Endzeit": 27
+            }
+        ]
+    },
+    {
+        "Gruppe": "J",
+        "Aufgabentyp": "Kreativit\u00e4tsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 11
+            },
+            {
+                "Startzeit": 13,
+                "Endzeit": 14
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 16
+            },
+            {
+                "Startzeit": 18,
+                "Endzeit": 25
+            }
+        ]
+    },
+    {
+        "Gruppe": "J",
+        "Aufgabentyp": "Leistung/psychomotorische Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 5
+            },
+            {
+                "Startzeit": 10,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 14,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 21,
+                "Endzeit": 28
+            }
+        ]
+    },
+    {
+        "Gruppe": "J",
+        "Aufgabentyp": "Planungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 3,
+                "Endzeit": 3
+            },
+            {
+                "Startzeit": 15,
+                "Endzeit": 15
+            },
+            {
+                "Startzeit": 26,
+                "Endzeit": 28
+            }
+        ]
+    },
+    {
+        "Gruppe": "J",
+        "Aufgabentyp": "Entscheidungsfindungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 3,
+                "Endzeit": 3
+            },
+            {
+                "Startzeit": 12,
+                "Endzeit": 13
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 17
+            },
+            {
+                "Startzeit": 21,
+                "Endzeit": 23
+            }
+        ]
+    },
+    {
+        "Gruppe": "J",
+        "Aufgabentyp": "Intellektuelle Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 4,
+                "Endzeit": 4
+            },
+            {
+                "Startzeit": 6,
+                "Endzeit": 6
+            },
+            {
+                "Startzeit": 11,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 14,
+                "Endzeit": 14
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 17
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 24,
+                "Endzeit": 24
+            },
+            {
+                "Startzeit": 27,
+                "Endzeit": 27
+            }
+        ]
+    },
+    {
+        "Gruppe": "J",
+        "Aufgabentyp": "Kognitive Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 5,
+                "Endzeit": 5
+            },
+            {
+                "Startzeit": 8,
+                "Endzeit": 10
+            },
+            {
+                "Startzeit": 18,
+                "Endzeit": 18
+            },
+            {
+                "Startzeit": 22,
+                "Endzeit": 22
+            }
+        ]
+    },
+    {
+        "Gruppe": "K",
+        "Aufgabentyp": "Planungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 1
+            },
+            {
+                "Startzeit": 9,
+                "Endzeit": 9
+            },
+            {
+                "Startzeit": 11,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 14,
+                "Endzeit": 14
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 16
+            },
+            {
+                "Startzeit": 22,
+                "Endzeit": 23
+            },
+            {
+                "Startzeit": 29,
+                "Endzeit": 29
+            }
+        ]
+    },
+    {
+        "Gruppe": "K",
+        "Aufgabentyp": "Kreativit\u00e4tsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 11
+            },
+            {
+                "Startzeit": 13,
+                "Endzeit": 15
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 18
+            }
+        ]
+    },
+    {
+        "Gruppe": "K",
+        "Aufgabentyp": "Leistung/psychomotorische Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 1
+            },
+            {
+                "Startzeit": 5,
+                "Endzeit": 7
+            },
+            {
+                "Startzeit": 13,
+                "Endzeit": 17
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 25
+            },
+            {
+                "Startzeit": 27,
+                "Endzeit": 30
+            }
+        ]
+    },
+    {
+        "Gruppe": "K",
+        "Aufgabentyp": "Intellektuelle Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 5,
+                "Endzeit": 6
+            },
+            {
+                "Startzeit": 8,
+                "Endzeit": 9
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 16
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 20
+            },
+            {
+                "Startzeit": 23,
+                "Endzeit": 29
+            }
+        ]
+    },
+    {
+        "Gruppe": "K",
+        "Aufgabentyp": "Kognitive Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 10,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 25,
+                "Endzeit": 25
+            }
+        ]
+    },
+    {
+        "Gruppe": "K",
+        "Aufgabentyp": "Entscheidungsfindungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 11,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 18,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 22,
+                "Endzeit": 22
+            }
+        ]
+    },
+    {
+        "Gruppe": "L",
+        "Aufgabentyp": "Kreativit\u00e4tsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 7
+            },
+            {
+                "Startzeit": 11,
+                "Endzeit": 17
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 20
+            },
+            {
+                "Startzeit": 22,
+                "Endzeit": 22
+            },
+            {
+                "Startzeit": 24,
+                "Endzeit": 24
+            },
+            {
+                "Startzeit": 26,
+                "Endzeit": 26
+            },
+            {
+                "Startzeit": 30,
+                "Endzeit": 30
+            }
+        ]
+    },
+    {
+        "Gruppe": "L",
+        "Aufgabentyp": "Planungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 2,
+                "Endzeit": 3
+            },
+            {
+                "Startzeit": 5,
+                "Endzeit": 6
+            },
+            {
+                "Startzeit": 12,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 16
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 21,
+                "Endzeit": 21
+            },
+            {
+                "Startzeit": 24,
+                "Endzeit": 25
+            },
+            {
+                "Startzeit": 27,
+                "Endzeit": 28
+            }
+        ]
+    },
+    {
+        "Gruppe": "L",
+        "Aufgabentyp": "Leistung/psychomotorische Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 2,
+                "Endzeit": 2
+            },
+            {
+                "Startzeit": 4,
+                "Endzeit": 7
+            },
+            {
+                "Startzeit": 9,
+                "Endzeit": 30
+            }
+        ]
+    },
+    {
+        "Gruppe": "L",
+        "Aufgabentyp": "Kognitive Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 4,
+                "Endzeit": 4
+            },
+            {
+                "Startzeit": 18,
+                "Endzeit": 18
+            },
+            {
+                "Startzeit": 27,
+                "Endzeit": 27
+            }
+        ]
+    },
+    {
+        "Gruppe": "L",
+        "Aufgabentyp": "Entscheidungsfindungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 8,
+                "Endzeit": 8
+            },
+            {
+                "Startzeit": 10,
+                "Endzeit": 11
+            },
+            {
+                "Startzeit": 22,
+                "Endzeit": 24
+            },
+            {
+                "Startzeit": 26,
+                "Endzeit": 30
+            }
+        ]
+    },
+    {
+        "Gruppe": "L",
+        "Aufgabentyp": "Intellektuelle Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 10,
+                "Endzeit": 10
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 18
+            },
+            {
+                "Startzeit": 20,
+                "Endzeit": 20
+            },
+            {
+                "Startzeit": 25,
+                "Endzeit": 25
+            },
+            {
+                "Startzeit": 27,
+                "Endzeit": 28
+            }
+        ]
+    },
+    {
+        "Gruppe": "A",
+        "Aufgabentyp": "Kreativit\u00e4tsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 4
+            },
+            {
+                "Startzeit": 7,
+                "Endzeit": 8
+            },
+            {
+                "Startzeit": 14,
+                "Endzeit": 14
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 17
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 20
+            },
+            {
+                "Startzeit": 22,
+                "Endzeit": 22
+            },
+            {
+                "Startzeit": 24,
+                "Endzeit": 24
+            },
+            {
+                "Startzeit": 27,
+                "Endzeit": 27
+            },
+            {
+                "Startzeit": 29,
+                "Endzeit": 29
+            }
+        ]
+    },
+    {
+        "Gruppe": "A",
+        "Aufgabentyp": "Entscheidungsfindungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 1
+            },
+            {
+                "Startzeit": 4,
+                "Endzeit": 4
+            },
+            {
+                "Startzeit": 9,
+                "Endzeit": 9
+            },
+            {
+                "Startzeit": 12,
+                "Endzeit": 13
+            },
+            {
+                "Startzeit": 25,
+                "Endzeit": 28
+            }
+        ]
+    },
+    {
+        "Gruppe": "A",
+        "Aufgabentyp": "Planungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 2,
+                "Endzeit": 3
+            },
+            {
+                "Startzeit": 5,
+                "Endzeit": 5
+            },
+            {
+                "Startzeit": 7,
+                "Endzeit": 8
+            },
+            {
+                "Startzeit": 11,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 16
+            },
+            {
+                "Startzeit": 26,
+                "Endzeit": 29
+            }
+        ]
+    },
+    {
+        "Gruppe": "A",
+        "Aufgabentyp": "Intellektuelle Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 2,
+                "Endzeit": 4
+            },
+            {
+                "Startzeit": 6,
+                "Endzeit": 9
+            },
+            {
+                "Startzeit": 12,
+                "Endzeit": 13
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 17
+            },
+            {
+                "Startzeit": 20,
+                "Endzeit": 20
+            },
+            {
+                "Startzeit": 22,
+                "Endzeit": 23
+            }
+        ]
+    },
+    {
+        "Gruppe": "A",
+        "Aufgabentyp": "Leistung/psychomotorische Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 3,
+                "Endzeit": 5
+            },
+            {
+                "Startzeit": 10,
+                "Endzeit": 11
+            },
+            {
+                "Startzeit": 18,
+                "Endzeit": 22
+            },
+            {
+                "Startzeit": 24,
+                "Endzeit": 30
+            }
+        ]
+    },
+    {
+        "Gruppe": "A",
+        "Aufgabentyp": "Kognitive Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 6,
+                "Endzeit": 6
+            },
+            {
+                "Startzeit": 27,
+                "Endzeit": 27
+            }
+        ]
+    },
+    {
+        "Gruppe": "E",
+        "Aufgabentyp": "Planungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 1
+            },
+            {
+                "Startzeit": 7,
+                "Endzeit": 7
+            },
+            {
+                "Startzeit": 13,
+                "Endzeit": 13
+            },
+            {
+                "Startzeit": 20,
+                "Endzeit": 20
+            }
+        ]
+    },
+    {
+        "Gruppe": "E",
+        "Aufgabentyp": "Kreativit\u00e4tsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 2
+            },
+            {
+                "Startzeit": 5,
+                "Endzeit": 7
+            },
+            {
+                "Startzeit": 9,
+                "Endzeit": 9
+            },
+            {
+                "Startzeit": 11,
+                "Endzeit": 11
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 22,
+                "Endzeit": 22
+            },
+            {
+                "Startzeit": 24,
+                "Endzeit": 26
+            },
+            {
+                "Startzeit": 28,
+                "Endzeit": 28
+            }
+        ]
+    },
+    {
+        "Gruppe": "E",
+        "Aufgabentyp": "Entscheidungsfindungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 3,
+                "Endzeit": 6
+            },
+            {
+                "Startzeit": 9,
+                "Endzeit": 9
+            },
+            {
+                "Startzeit": 12,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 15,
+                "Endzeit": 15
+            },
+            {
+                "Startzeit": 20,
+                "Endzeit": 21
+            },
+            {
+                "Startzeit": 23,
+                "Endzeit": 23
+            }
+        ]
+    },
+    {
+        "Gruppe": "E",
+        "Aufgabentyp": "Leistung/psychomotorische Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 8,
+                "Endzeit": 9
+            },
+            {
+                "Startzeit": 12,
+                "Endzeit": 15
+            },
+            {
+                "Startzeit": 20,
+                "Endzeit": 21
+            },
+            {
+                "Startzeit": 23,
+                "Endzeit": 24
+            },
+            {
+                "Startzeit": 26,
+                "Endzeit": 28
+            }
+        ]
+    },
+    {
+        "Gruppe": "E",
+        "Aufgabentyp": "Intellektuelle Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 12,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 14,
+                "Endzeit": 14
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 16
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 21,
+                "Endzeit": 21
+            }
+        ]
+    },
+    {
+        "Gruppe": "E",
+        "Aufgabentyp": "Kognitive Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 17,
+                "Endzeit": 17
+            }
+        ]
+    },
+    {
+        "Gruppe": "G",
+        "Aufgabentyp": "Planungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 1
+            },
+            {
+                "Startzeit": 8,
+                "Endzeit": 8
+            },
+            {
+                "Startzeit": 11,
+                "Endzeit": 11
+            },
+            {
+                "Startzeit": 15,
+                "Endzeit": 15
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 25,
+                "Endzeit": 26
+            }
+        ]
+    },
+    {
+        "Gruppe": "G",
+        "Aufgabentyp": "Kreativit\u00e4tsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 17
+            },
+            {
+                "Startzeit": 20,
+                "Endzeit": 21
+            },
+            {
+                "Startzeit": 25,
+                "Endzeit": 26
+            },
+            {
+                "Startzeit": 28,
+                "Endzeit": 28
+            },
+            {
+                "Startzeit": 30,
+                "Endzeit": 30
+            }
+        ]
+    },
+    {
+        "Gruppe": "G",
+        "Aufgabentyp": "Entscheidungsfindungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 2,
+                "Endzeit": 6
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 17
+            },
+            {
+                "Startzeit": 21,
+                "Endzeit": 23
+            },
+            {
+                "Startzeit": 25,
+                "Endzeit": 25
+            },
+            {
+                "Startzeit": 27,
+                "Endzeit": 29
+            }
+        ]
+    },
+    {
+        "Gruppe": "G",
+        "Aufgabentyp": "Leistung/psychomotorische Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 2,
+                "Endzeit": 3
+            },
+            {
+                "Startzeit": 12,
+                "Endzeit": 14
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 16
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 20
+            },
+            {
+                "Startzeit": 22,
+                "Endzeit": 29
+            }
+        ]
+    },
+    {
+        "Gruppe": "G",
+        "Aufgabentyp": "Intellektuelle Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 6,
+                "Endzeit": 6
+            },
+            {
+                "Startzeit": 13,
+                "Endzeit": 13
+            },
+            {
+                "Startzeit": 18,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 26,
+                "Endzeit": 26
+            }
+        ]
+    },
+    {
+        "Gruppe": "G",
+        "Aufgabentyp": "Kognitive Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 13,
+                "Endzeit": 14
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 16
+            },
+            {
+                "Startzeit": 24,
+                "Endzeit": 24
+            }
+        ]
+    },
+    {
+        "Gruppe": "H",
+        "Aufgabentyp": "Planungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 1
+            },
+            {
+                "Startzeit": 4,
+                "Endzeit": 5
+            },
+            {
+                "Startzeit": 9,
+                "Endzeit": 9
+            },
+            {
+                "Startzeit": 11,
+                "Endzeit": 14
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 16
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 23,
+                "Endzeit": 25
+            }
+        ]
+    },
+    {
+        "Gruppe": "H",
+        "Aufgabentyp": "Kreativit\u00e4tsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 4
+            },
+            {
+                "Startzeit": 6,
+                "Endzeit": 6
+            },
+            {
+                "Startzeit": 8,
+                "Endzeit": 9
+            },
+            {
+                "Startzeit": 14,
+                "Endzeit": 15
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 17
+            }
+        ]
+    },
+    {
+        "Gruppe": "H",
+        "Aufgabentyp": "Leistung/psychomotorische Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 1,
+                "Endzeit": 1
+            },
+            {
+                "Startzeit": 3,
+                "Endzeit": 7
+            },
+            {
+                "Startzeit": 9,
+                "Endzeit": 9
+            },
+            {
+                "Startzeit": 12,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 14,
+                "Endzeit": 18
+            },
+            {
+                "Startzeit": 20,
+                "Endzeit": 29
+            }
+        ]
+    },
+    {
+        "Gruppe": "H",
+        "Aufgabentyp": "Entscheidungsfindungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 4,
+                "Endzeit": 4
+            },
+            {
+                "Startzeit": 6,
+                "Endzeit": 8
+            },
+            {
+                "Startzeit": 11,
+                "Endzeit": 11
+            }
+        ]
+    },
+    {
+        "Gruppe": "H",
+        "Aufgabentyp": "Intellektuelle Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 10,
+                "Endzeit": 10
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 17
+            },
+            {
+                "Startzeit": 22,
+                "Endzeit": 22
+            }
+        ]
+    },
+    {
+        "Gruppe": "H",
+        "Aufgabentyp": "Kognitive Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 10,
+                "Endzeit": 10
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 20
+            },
+            {
+                "Startzeit": 24,
+                "Endzeit": 24
+            }
+        ]
+    },
+    {
+        "Gruppe": "D",
+        "Aufgabentyp": "Kreativit\u00e4tsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 2,
+                "Endzeit": 3
+            },
+            {
+                "Startzeit": 6,
+                "Endzeit": 13
+            },
+            {
+                "Startzeit": 15,
+                "Endzeit": 17
+            },
+            {
+                "Startzeit": 26,
+                "Endzeit": 30
+            }
+        ]
+    },
+    {
+        "Gruppe": "D",
+        "Aufgabentyp": "Planungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 3,
+                "Endzeit": 4
+            },
+            {
+                "Startzeit": 11,
+                "Endzeit": 11
+            },
+            {
+                "Startzeit": 18,
+                "Endzeit": 21
+            },
+            {
+                "Startzeit": 24,
+                "Endzeit": 24
+            },
+            {
+                "Startzeit": 26,
+                "Endzeit": 26
+            },
+            {
+                "Startzeit": 29,
+                "Endzeit": 29
+            }
+        ]
+    },
+    {
+        "Gruppe": "D",
+        "Aufgabentyp": "Entscheidungsfindungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 5,
+                "Endzeit": 5
+            },
+            {
+                "Startzeit": 11,
+                "Endzeit": 11
+            },
+            {
+                "Startzeit": 25,
+                "Endzeit": 25
+            },
+            {
+                "Startzeit": 27,
+                "Endzeit": 28
+            }
+        ]
+    },
+    {
+        "Gruppe": "D",
+        "Aufgabentyp": "Intellektuelle Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 6,
+                "Endzeit": 6
+            },
+            {
+                "Startzeit": 11,
+                "Endzeit": 11
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 17
+            },
+            {
+                "Startzeit": 20,
+                "Endzeit": 20
+            }
+        ]
+    },
+    {
+        "Gruppe": "D",
+        "Aufgabentyp": "Leistung/psychomotorische Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 10,
+                "Endzeit": 14
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 18
+            },
+            {
+                "Startzeit": 21,
+                "Endzeit": 23
+            },
+            {
+                "Startzeit": 25,
+                "Endzeit": 31
+            }
+        ]
+    },
+    {
+        "Gruppe": "B",
+        "Aufgabentyp": "Planungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 3,
+                "Endzeit": 3
+            },
+            {
+                "Startzeit": 5,
+                "Endzeit": 5
+            },
+            {
+                "Startzeit": 12,
+                "Endzeit": 13
+            },
+            {
+                "Startzeit": 16,
+                "Endzeit": 16
+            },
+            {
+                "Startzeit": 22,
+                "Endzeit": 22
+            },
+            {
+                "Startzeit": 24,
+                "Endzeit": 25
+            },
+            {
+                "Startzeit": 29,
+                "Endzeit": 30
+            }
+        ]
+    },
+    {
+        "Gruppe": "B",
+        "Aufgabentyp": "Kreativit\u00e4tsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 4,
+                "Endzeit": 8
+            },
+            {
+                "Startzeit": 10,
+                "Endzeit": 11
+            },
+            {
+                "Startzeit": 26,
+                "Endzeit": 27
+            }
+        ]
+    },
+    {
+        "Gruppe": "B",
+        "Aufgabentyp": "Intellektuelle Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 9,
+                "Endzeit": 9
+            },
+            {
+                "Startzeit": 15,
+                "Endzeit": 15
+            },
+            {
+                "Startzeit": 19,
+                "Endzeit": 20
+            },
+            {
+                "Startzeit": 24,
+                "Endzeit": 25
+            }
+        ]
+    },
+    {
+        "Gruppe": "B",
+        "Aufgabentyp": "Entscheidungsfindungsaufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 10,
+                "Endzeit": 10
+            },
+            {
+                "Startzeit": 14,
+                "Endzeit": 14
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 19
+            },
+            {
+                "Startzeit": 21,
+                "Endzeit": 21
+            },
+            {
+                "Startzeit": 26,
+                "Endzeit": 26
+            },
+            {
+                "Startzeit": 30,
+                "Endzeit": 30
+            }
+        ]
+    },
+    {
+        "Gruppe": "B",
+        "Aufgabentyp": "Kognitive Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 11,
+                "Endzeit": 11
+            },
+            {
+                "Startzeit": 27,
+                "Endzeit": 28
+            }
+        ]
+    },
+    {
+        "Gruppe": "B",
+        "Aufgabentyp": "Leistung/psychomotorische Aufgaben",
+        "Intervals": [
+            {
+                "Startzeit": 12,
+                "Endzeit": 12
+            },
+            {
+                "Startzeit": 15,
+                "Endzeit": 15
+            },
+            {
+                "Startzeit": 17,
+                "Endzeit": 17
+            },
+            {
+                "Startzeit": 21,
+                "Endzeit": 30
+            }
+        ]
+    }
+]
